@@ -8,3 +8,6 @@ board.push_san("Bc4")
 
 
 board
+
+
+#RUN IN JUPYTER NOTEBOOK
